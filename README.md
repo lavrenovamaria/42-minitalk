@@ -1,7 +1,8 @@
 # 42-minitalk
 ## The purpose of this project is to code a small data exchange program using UNIX signals(a communication program in the form of a client and server).
 
-This repository contains the bonuses (support Unicode characters and the server confirms every signal received by sending a signal to the client). Subject is presented in the
+This repository contains the bonuses (support Unicode characters and the server confirms every signal received by sending a signal to the client). Subject is presented in the [en.subject.pdf](https://github.com/lavrenovamaria/42-minitalk/files/7067315/en.subject.pdf)
+
 
 
 ## Usage
