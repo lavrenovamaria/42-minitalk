@@ -15,7 +15,7 @@ Using Makefile you can create library file libftprintf.a
 
 ![2_0](https://user-images.githubusercontent.com/84707645/132090087-bbdaf2db-9652-4add-90ad-ffaa82f6aca9.jpg)
 
-![3_0](https://user-images.githubusercontent.com/84707645/132090165-d230ac69-6edd-4909-b6d9-2818e6a9e91d.jpg)
+![3_0](https://user-images.githubusercontent.com/84707645/132102345-6808ce12-9e8f-47fe-9d78-92c799a64ab3.jpg)
 
 ![5_0](https://user-images.githubusercontent.com/84707645/132090299-daf3b0da-38ac-47cf-9d9a-625c2c3f9bd0.jpg)
 
